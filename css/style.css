@@ -1,0 +1,13 @@
+body {
+  padding: 0px;
+  background-color: #eab180;
+}
+#map {
+  height: 600px;
+  width: 1200px;
+  margin: auto;
+}
+#pattern {
+  text-align: center;
+  padding: 10px;
+}
